@@ -3,7 +3,7 @@ int main()
 {
 int a[50],i,k;
 printf("enter the num of array\n");
-scanf("%d",&size);
+scanf("%d",&k);
 for(i=0;i<k;++i)
 {
 	printf("enter the elements\n",i+1);
